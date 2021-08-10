@@ -1,0 +1,20 @@
+{
+    "dir": "../",
+    "changeParams": {
+        "_": {
+            "sym_10": "ten",
+            "sym_j": "j",
+            "sym_q": "q",
+            "sym_k": "k",
+            "sym_a": "a",
+            "sym_s": "statue",
+            "sym_c": "chest",
+            "sym_m": "mermaid",
+            "sym_p": "poseidon",
+            "sym_b": "scatter",
+            "f": ["bonus", "-s"],
+            "h": ["alpha", "-s"],
+            "d": ["grey", "-s"]
+        }
+    }
+}
